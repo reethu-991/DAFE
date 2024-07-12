@@ -1,0 +1,40 @@
+EDA on (Social Influence on Shopping)
+
+About Data:
+This data was collected on our social survey mobile platform Whatsgoodly. We have 300,000 millennial and Gen Z members, and have collected 150,000,000 survey responses from this demographic to date.
+
+Task:
+We want to perform Exploratory Data Analysis (EDA) on this Data. It including Data cleaning, Data wrangling, Data pre-processing and Data Exploration.
+
+Observation Set 1:
+In this datset There is one question 'What social platform has influenced your online shopping most?' asked from the public in different segments.
+And the options for that question was: 'Facebook', 'Instagram', 'Snapchat', 'Twitter'
+
+This dataset has 5 segment Types, 'Mobile', 'Web', 'Gender', 'University' and 'Custom' and every Segment has different Segment Description.
+
+In every segment description we have 4 answer options (Facebook, Instagram, Snapchat, Twitter), in which Public have to choose only one answer.
+
+Observation Set 2:
+According to our observation null values in Answer column shows that public did not choose any answer.
+Here Null values in Answer column could be the option (They dont want to give any answer or They dont want to reveal any option of above four social platforms)
+
+Observation Set 3:¶
+As we see that The value What's your major? Other from the column Segment Descriptionhas diiferent Count and Percentage values
+
+It means the above given Segment Description could happen two times according to our dataset.
+
+
+We performed EDA on this data set and conclude the following findings:
+
+We conclude that total number of people participated in this survey are: 50770
+We find that Facebook chosen by 10329 (20.34469%) people, Instagram chosen by 16524 (32.54678%) people, Snapchat chosen by 1574 (3.100256%) people, Twitter chosen by 3407 (6.710656%) people and 18936 or 37.297617% People have not give any answer.
+We find the following conclusions:
+
+University has highest segments of 870.
+Custom has 560 segments.
+Gender has 10 segments.
+Mobile and Web has 5 segments each.
+
+
+
+
