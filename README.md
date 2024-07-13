@@ -1,1 +1,3 @@
+Description: Conducted an in-depth exploratory data analysis on a dataset related to social influence on shopping behavior, utilizing Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. Cleaned and preprocessed the dataset, performed descriptive statistics, and created visualizations to identify patterns and relationships between variables. Analyzed correlations between social influence factors and shopping behavior, and engineered new features to gain deeper insights. Developed a comprehensive understanding of the dataset, identifying key trends and areas for further exploration.
+
 https://colab.research.google.com/drive/1r78L-tDMSX-KX9fMVMh-Y1sI8wDY35Fj?usp=chrome_ntp#scrollTo=eGVtQtWh_vCK
